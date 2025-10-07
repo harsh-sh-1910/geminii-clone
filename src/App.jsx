@@ -5,7 +5,7 @@ import Main from "./components/Main/Main";
 import Solutions from "./components/Solutions/Solutions";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Input from "./components/Input/Input";
-import UseContextProvider from "./Usecontext/UseContextProvider.jsx";
+import UseContextProvider from "./Usecontext/UseContextProvider";
 
 const App = () => {
   return (
